@@ -1,0 +1,45 @@
+body {
+    margin:0;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background-color: rgb(203, 203, 203);
+    padding-top: 25px;
+}
+
+div.header {
+    padding: 15px;
+}
+
+div.header h2 {
+    margin:0px; 
+    font-size: 20px;
+    display: inline;
+    }
+
+.box .header .date {
+    float:right;
+    margin: 0;
+}
+
+.box {
+background: white;
+width: 600px;
+margin: auto;
+margin-bottom: 60px;
+margin-top: 60px;
+border: 2px solid #EDEEEE;
+border-radius: 5px;
+}
+
+img {
+    width: 100%;
+}
+
+div.description {
+    padding: 15px;
+}
